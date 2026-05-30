@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "_Analog_ADC")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/_Analog_ADC.kicad_sym")(options "")(descr ""))
+  (lib (name "_Amplifier")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/_Amplifier.kicad_sym")(options "")(descr ""))
+  (lib (name "_Regulator_Linear")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/_Regulator_Linear.kicad_sym")(options "")(descr ""))
+  (lib (name "_Connector")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/_Connector.kicad_sym")(options "")(descr ""))
+)
